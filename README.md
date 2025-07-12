@@ -1,3 +1,4 @@
 # spotify-clone-Homepage-
 Spotify Homepage Clone using HTML and CSS 
-By- Ashutosh
+<br>
+<h1>By- Ashutosh</h1>
